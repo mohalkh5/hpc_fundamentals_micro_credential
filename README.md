@@ -1,6 +1,6 @@
 # HPC fundamentals micro-credential course
 
-Hello and welcome to CU Boulder's **HPC funcamentals micro-credential course**! All presentations given throughout the micro-credential course are stored in this GitHub repository. This micro-credentialed course is for those who will be tackling computing-, memory-, or storage-intensive research problems that exceed the capacity of a laptop or desktop computer. It consists of four half-day modules and is intended to give attendees a hands-on introduction to high-performance computing (“supercomputing”) using CU Boulder’s Research Computing resources. By the end of the workshop participants will be able to:
+Hello and welcome to CU Boulder's **HPC fundamentals micro-credential course**! All presentations given throughout the micro-credential course are stored in this GitHub repository. This micro-credentialed course is for those who will be tackling computing-, memory-, or storage-intensive research problems that exceed the capacity of a laptop or desktop computer. It consists of four half-day modules and is intended to give attendees a hands-on introduction to high-performance computing (“supercomputing”) using CU Boulder’s Research Computing resources. By the end of the workshop participants will be able to:
 
 - Identify community- and CU-specific research computing resources
 - Find help/documentation for research computing Access research computing resources
